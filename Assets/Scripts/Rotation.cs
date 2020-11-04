@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class mawasu : MonoBehaviour
+public class Rotation : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
